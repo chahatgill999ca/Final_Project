@@ -31,9 +31,9 @@ Clone this repository to your local machine.
 Install the required libraries: pip install pandas matplotlib seaborn.
 Run the scripts in the following order: 
 
-   python generate_data.py
-   python analyze_data.py
-   python create_plots.py 
+   #### python generate_data.py
+   #### python analyze_data.py
+   #### python create_plots.py 
 
 # Conclusion 
 The findings illustrate that structural synchronization biases can exist even in datasets with high validity. This project highlights the necessity of robust data quality detection mechanisms to ensure credible results in simulated environments. 
