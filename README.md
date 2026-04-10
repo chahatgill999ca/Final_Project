@@ -1,4 +1,3 @@
-# Final_Project
 # Data Quality in Digital Twin Systems
 
 # Project Overview 
