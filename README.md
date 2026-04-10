@@ -27,3 +27,18 @@ The analysis yielded the following evidence of data quality problems:
 ### sync gap chart.png: A graphical representation of a 5-degree temperature difference between the physical and virtual models that remained constant.  
 
 # How to Run 
+Clone this repository to your local machine.
+Install the required libraries: pip install pandas matplotlib seaborn.
+Run the scripts in the following order: 
+
+  ## python generate_data.py
+  ## python analyze_data.py
+  ## python create_plots.py 
+
+# Conclusion 
+The findings illustrate that structural synchronization biases can exist even in datasets with high validity. This project highlights the necessity of robust data quality detection mechanisms to ensure credible results in simulated environments. 
+
+# References
+## UCI Machine Learning Repository.
+## COMP 331 Project Topics and Lecture Notes.
+## Barocas, S., Hardt, M., & Narayanan, A. (2019). Fairness and Machine Learning
